@@ -1,2 +1,2 @@
-x = input()
+x = input("uhskjhfkjsd")
 print("Hello world!")
